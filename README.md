@@ -1,6 +1,4 @@
----
 
-````markdown
 # File Sharing Project using Python (Socket Programming)
 
 This is a simple client-server based File Sharing System implemented using Python's socket programming. The server hosts files, and the client can request and download files from the server over a network.
